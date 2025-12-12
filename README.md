@@ -65,6 +65,6 @@ Sistema acadêmico que demonstra **Programação Orientada a Objetos (POO)** atr
 ## 🛠️ **Lógica de Recomendação Inteligente**
 
 ## 👨‍🎓 **Autor**
-**Desenvolvido por**: [Wendel Victor Santos Coelho]  
+**Desenvolvido por**: Wendel Victor Santos Coelho  
 **Disciplina**: Programação Orientada a Objetos  
 **Período**: 2025/2
